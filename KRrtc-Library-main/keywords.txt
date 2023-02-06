@@ -1,0 +1,12 @@
+KRrtc	        KEYWORD1
+rtcBegin	    KEYWORD1
+rtcGet	        KEYWORD1
+setComputer     KEYWORD1
+setManual       KEYWORD1
+hari        KEYWORD2
+tanggal     KEYWORD2
+bulan       KEYWORD2
+tahun       KEYWORD2
+jam         KEYWORD2
+menit       KEYWORD2
+detik       KEYWORD2
